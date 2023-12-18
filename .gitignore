@@ -1,0 +1,4 @@
+## Git ignores
+/lazy*.json
+**/*.bak
+
